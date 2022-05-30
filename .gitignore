@@ -1,7 +1,9 @@
 .DS_Store
+amplify
+public
 node_modules
 /dist
-
+src/assets/quasar-logo-vertical.svg
 
 # local env files
 .env.local
