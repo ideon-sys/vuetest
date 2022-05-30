@@ -124,8 +124,6 @@ export default {
         Object.keys(value).forEach((key) => {
           if (typeof value[key] === "number") {
             if (value[key] < 0 || value[key] > 1200) this.canConfirm = false;
-          } else if (typeof value[key] === "string") {
-            if (!value[key]) this.canConfirm = false;
           }
         });
       },

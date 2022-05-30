@@ -1,24 +1,23 @@
-# vuetest
+# UmaImageRecognition
 
-## Project setup
+## 概要
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+スマートフォン向けゲームアプリの「ウマ娘 プリティーダービー」の
+殿堂入りウマ娘を管理するシングルページアプリケーションです。
 ```
 
-### Compiles and minifies for production
+## 説明
 ```
-npm run build
+遊んでいるアプリを絡めて、学習目的で作成しています。
+開発中の為、まだ不具合が多く、ログイン機能などが実装されていません。
 ```
 
-### Lints and fixes files
+## 使用したフレームワーク
 ```
-npm run lint
+Vue 3
+Quasar Framework
+AWS Amplify
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# ideon-sys

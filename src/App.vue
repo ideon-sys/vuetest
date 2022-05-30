@@ -64,8 +64,7 @@ export default {
     return {
       slide: "list",
       appTitle: "ウマ娘 殿堂入り一覧ツール",
-      subtitle:
-        "アプリ版ウマ娘の伝統入りウマ娘を管理します。",
+      subtitle: "アプリ版ウマ娘の殿堂入りウマ娘を管理します。",
       user: "",
       active: 0,
       topDialog: false,
