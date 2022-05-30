@@ -1,0 +1,2124 @@
+{
+ "skillData": [
+  {
+   "name": "右回り◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "右回り○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "左回り◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "左回り○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "春ウマ娘◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "春ウマ娘○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "夏ウマ娘◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "夏ウマ娘○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "秋ウマ娘◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "秋ウマ娘○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "冬ウマ娘◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "冬ウマ娘○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "外枠得意◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "外枠得意○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "おひとり様◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "おひとり様○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "伏兵◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "伏兵○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "シンパシー",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "一匹狼",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "変わらぬままで",
+   "rarity": 2,
+   "type": 3
+  },
+  {
+   "name": "初嵐",
+   "rarity": 2,
+   "type": 3
+  },
+  {
+   "name": "右回り×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "左回り×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "春ウマ娘×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "夏ウマ娘×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "秋ウマ娘×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "冬ウマ娘×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "外枠苦手",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "GⅠ苦手",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "凸凹ネイル",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "東京レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "東京レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "中山レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "中山レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "阪神レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "阪神レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "京都レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "京都レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "中京レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "中京レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "札幌レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "札幌レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "函館レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "函館レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "福島レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "福島レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "新潟レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "新潟レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "小倉レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "小倉レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "根幹距離◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "根幹距離○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "非根幹距離◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "非根幹距離○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "大井レース場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "大井レース場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "癒えない渇き",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "淀の申し子",
+   "rarity": 2,
+   "type": 3
+  },
+  {
+   "name": "東京レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "中山レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "阪神レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "京都レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "中京レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "札幌レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "函館レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "福島レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "新潟レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "小倉レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "根幹距離×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "非根幹距離×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "小心者",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "大井レース場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "良バ場◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "良バ場○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "道悪◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "道悪○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "対抗意識◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "対抗意識○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "良バ場×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "道悪×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "引っ込み思案",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "晴れの日◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "晴れの日○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "曇りの日◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "曇りの日○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "雨の日◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "雨の日○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "雪の日◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "雪の日○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "徹底マーク◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "徹底マーク○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "雨の日×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "内枠得意◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "内枠得意○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "逃げのコツ◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "逃げのコツ○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "先行のコツ◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "先行のコツ○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "差しのコツ◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "差しのコツ○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "追込のコツ◎",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "追込のコツ○",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "内枠苦手",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "ラッキーセブン",
+   "rarity": 1,
+   "type": 3
+  },
+  {
+   "name": "スーパーラッキーセブン",
+   "rarity": 2,
+   "type": 3
+  },
+  {
+   "name": "コーナー巧者○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "直線巧者",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "ペースアップ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "末脚",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "急ぎ足",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "抜け出し準備",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "位置取り押し上げ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "外差し準備",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "仕掛け抜群",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "詰め寄り",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "積極策",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "テンポアップ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "食い下がり",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "内弁慶",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "短距離直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "短距離直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "短距離コーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "短距離コーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "大きなリード",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "マイル直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "マイル直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "マイルコーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "マイルコーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "ギアシフト",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "負けん気",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "中距離直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "中距離直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "中距離コーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "中距離コーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "長距離直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "長距離直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "長距離コーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "長距離コーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "リードキープ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "追い上げ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "逃げ直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "逃げ直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "逃げコーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "逃げコーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "先頭プライド",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "先行直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "先行直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "先行コーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "先行コーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "差し直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "差し直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "差しコーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "差しコーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "十万バリキ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "追込直線◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "追込直線○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "追込コーナー◎",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "追込コーナー○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "ウマ好み",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "尻尾上がり",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "スリップストリーム",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "遊びはおしまいっ！",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "レコメンド",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "ありったけ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "弧線のプロフェッサー",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "ハヤテ一文字",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "アガッてきた！",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "全身全霊",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "脱出術",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "スピードスター",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "迅速果断",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "昇り龍",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "疾風怒濤",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "電撃の煌めき",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "マイルの支配者",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "キラーチューン",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "勝利への執念",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "内的体験",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "圧倒的リード",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "ギアチェンジ",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "姉御肌",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "先陣の心得",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "怒涛の追い上げ",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "百万バリキ",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "チャート急上昇！",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "ウママニア",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "決死の覚悟",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "絶対は、ボクだ",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "最強の名を懸けて",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "波乱注意砲！",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "アクセルX",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "レッドエース",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "精神一到",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "熱血☆アミーゴ",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "エンプレス・プライド",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "勝利のキッス☆",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "全力Vサインッ！",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "学級委員長+速さ＝バクシン",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "来てください来てください！",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "アタシもたまには、ね？",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "Call me KING",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "シューティングスター",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "先頭の景色は譲らない…！",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "究極テイオーステップ",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "勝利の鼓動",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "不沈艦、抜錨ォッ！",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "カッティング×DRIVE！",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "ブリリアント・レッドエース",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "精神一到何事か成らざらん",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "貴顕の使命を果たすべく",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "プランチャ☆ガナドール",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "ヴィットーリアに捧ぐ舞踏",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "汝、皇帝の神威を見よ",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "ブレイズ・オブ・プライド",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "∴win Q.E.D.",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "ひらめき☆ランディング",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "G00 1st.F∞;",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "ブルーローズチェイサー",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "勝利のチケットを、君にッ！",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "優等生×バクシン＝大勝利ッ",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "来ます来てます来させます！",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "きっとその先へ…！",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "Pride of KING",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "#LookatCurren",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "Nemesis",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "キラキラ☆STARDOM",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "Shadow Break",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "薫風、永遠なる瞬間を",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "フラワリー☆マニューバ",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "タイマン！デッドヒート！",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "煌星のヴォードヴィル",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "グッときて♪Chu",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "I Never Goof Up!",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "Schwarzes Schwert",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "禾スナハチ登ル",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "I'M☆FULL☆SPEED!!",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "尊み☆ﾗｽﾄｽﾊﾟ—(ﾟ∀ﾟ)—ﾄ!",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "ぐるぐるマミートリック♡",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "姫たるもの、勝利をこの手に",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "アナタヲ・オイカケテ",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "翳り退く、さざめきの矢",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "GET DOWN",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "YEAH☆VIVID TIME!",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "聖夜のミラクルラン！",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "Presents from X",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "コーナー巧者×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "あきらめ癖",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "手抜き癖",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "コーナー回復○",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "直線回復",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "隠れ蓑",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "ペースキープ",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "ウマ込み冷静",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "スタミナキープ",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "好位追走",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "後方待機",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "様子見",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "展開窺い",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "前途洋々",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "深呼吸",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "別腹タンク",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "軽やかステップ",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "パス上手",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "勢い任せ",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "栄養補給",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "小休憩",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "下校の楽しみ",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "冷静",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "スリーセブン",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "ふり絞り",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "静かな呼吸",
+   "rarity": 1,
+   "type": 2
+  },
+  {
+   "name": "円弧のマエストロ",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "好転一息",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "鋼の意志",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "不屈の心",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "どこ吹く風",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "余裕綽々",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "レースプランナー",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "眠れる獅子",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "慧眼",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "切り開く者",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "クールダウン",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "火事場のバ鹿力",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "神業ステップ",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "じゃじゃウマ娘",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "食いしん坊",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "リラックス",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "下校後のスペシャリスト",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "冷静沈着",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "潜伏態勢",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "VIP顔パス",
+   "rarity": 2,
+   "type": 2
+  },
+  {
+   "name": "introduction：My body",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "クリアハート",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "ワクワクよーいドン",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "U=ma2",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "ピュリティオブハート",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "ワクワククライマックス",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "ゲインヒール・スペリアー",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "わやかわ♪マリンダイヴ",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "Drain for rose",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "コーナー回復×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "坂苦手",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "バ群嫌い",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "空回り",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "コーナー加速○",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "直線加速",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "垂れウマ回避",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "先駆け",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "押し切り準備",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "差し切り体勢",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "直線一気",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "スプリントギア",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "上昇気流",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "善後策",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "アクセラレーション",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "二の矢",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "巧みなステップ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "直滑降",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "まき直し",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "がんばり屋",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "登山家",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "地固め",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "真っ向勝負",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "曲線のソムリエ",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "一陣の風",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "ノンストップガール",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "先手必勝",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "逃亡者",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "乗り換え上手",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "迫る影",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "スプリントターボ",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "豪脚",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "プランX",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "アクセル全開！",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "再燃焼",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "技巧派",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "決意の直滑降",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "くじけぬ精神",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "努力家",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "燃えろ筋肉！",
+   "rarity": 3,
+   "type": 5
+  },
+  {
+   "name": "紅焔ギア/LP1211-M",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "ヴィクトリーショット！",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "レッツ・アナボリック！",
+   "rarity": 4,
+   "type": 5
+  },
+  {
+   "name": "アングリング×スキーミング",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "コンドル猛撃波",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "KEEP IT REAL.",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "彼方、その先へ…",
+   "rarity": 5,
+   "type": 5
+  },
+  {
+   "name": "コーナー加速×",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "ポジションセンス",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "臨機応変",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "仕掛け準備",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "イナズマステップ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "危険回避",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "前列狙い",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "注目の踊り子",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "レーンの魔術師",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "準備万全！",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "ライトニングステップ",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "シックスセンス",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "狙うは最前列！",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "集中力",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "コンセントレーション",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "ゲート難",
+   "rarity": 1,
+   "type": 4
+  },
+  {
+   "name": "ホークアイ",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "読解力",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "お見通し",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "策士",
+   "rarity": 1,
+   "type": 0
+  },
+  {
+   "name": "千里眼",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "大局観",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "視界良好！異常なし！",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "天命士",
+   "rarity": 2,
+   "type": 0
+  },
+  {
+   "name": "アオハル点火・速",
+   "rarity": 1,
+   "type": 6
+  },
+  {
+   "name": "アオハル点火・根",
+   "rarity": 1,
+   "type": 6
+  },
+  {
+   "name": "アオハル燃焼・速",
+   "rarity": 2,
+   "type": 6
+  },
+  {
+   "name": "アオハル燃焼・根",
+   "rarity": 2,
+   "type": 6
+  },
+  {
+   "name": "アオハル点火・体",
+   "rarity": 1,
+   "type": 6
+  },
+  {
+   "name": "アオハル燃焼・体",
+   "rarity": 2,
+   "type": 6
+  },
+  {
+   "name": "アオハル点火・力",
+   "rarity": 1,
+   "type": 6
+  },
+  {
+   "name": "アオハル燃焼・力",
+   "rarity": 2,
+   "type": 6
+  },
+  {
+   "name": "アオハル点火・賢",
+   "rarity": 1,
+   "type": 6
+  },
+  {
+   "name": "アオハル燃焼・賢",
+   "rarity": 2,
+   "type": 6
+  },
+  {
+   "name": "逃げためらい",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "先行ためらい",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "差しためらい",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "追込ためらい",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "後方釘付",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "スピードイーター",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "束縛",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "まなざし",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "スピードグリード",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "独占力",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "熱いまなざし",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "悩殺術",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "布石",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "リスタート",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "布陣",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "逃げ駆け引き",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "先行駆け引き",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "差し駆け引き",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "追込駆け引き",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "トリック（前）",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "トリック（後）",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "逃げけん制",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "逃げ焦り",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "先行けん制",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "先行焦り",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "差しけん制",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "差し焦り",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "追込けん制",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "追込焦り",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "抜け駆け禁止",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "ささやき",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "スタミナイーター",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "鋭い眼光",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "逃亡禁止令",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "魅惑のささやき",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "スタミナグリード",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "八方にらみ",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "見惚れるトリック",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "目くらまし",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "かく乱",
+   "rarity": 1,
+   "type": 1
+  },
+  {
+   "name": "奇術師",
+   "rarity": 2,
+   "type": 1
+  },
+  {
+   "name": "幻惑のかく乱",
+   "rarity": 2,
+   "type": 1
+  }
+ ]
+}
